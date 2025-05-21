@@ -6,6 +6,6 @@
 
 **8_numericChecker**-(https://github.com/meghana7675/java-programs-with-all-output/blob/main/3a_string8.png)
 
-**6_randomStringGenerator**-(https://github.com/meghana7675/java-programs-with-all-output/blob/main/3a_string9.png)
+**9_randomStringGenerator**-(https://github.com/meghana7675/java-programs-with-all-output/blob/main/3a_string9.png)
 
-**6_WordCounter**-(https://github.com/meghana7675/java-programs-with-all-output/blob/main/3a_string10.png)
+**10_WordCounter**-(https://github.com/meghana7675/java-programs-with-all-output/blob/main/3a_string10.png)
