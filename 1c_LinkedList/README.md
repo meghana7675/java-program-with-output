@@ -1,4 +1,4 @@
-# PROGRAM 1C
+# PROGRAM 1C :LinkedList
 
 **1_LinkedListIteratorFromSecond**-(https://github.com/meghana7675/java-program-with-output/blob/main/1c_LinkedList/1c1.png)
 
