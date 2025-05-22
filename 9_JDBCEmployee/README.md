@@ -1,4 +1,4 @@
-# PROGRAM 9: 
+# PROGRAM 9
 
 **MySql deletion and updation**-(https://github.com/meghana7675/java-program-with-output/blob/main/9_JDBCEmployee/9a.jpeg)
 
